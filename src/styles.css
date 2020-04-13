@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+mat-form-field {
+  width: 100%;
+}
+
+mat-card {
+  margin: 15px;
+}
+
+.container {
+  width: 90%;
+}
+
+body {
+  font-size: 18px;
+}
+
+hr {
+  margin: 0;
+  border: 0;
+  border-top: 3px solid #eee;
+}

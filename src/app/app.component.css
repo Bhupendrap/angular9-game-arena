@@ -1,0 +1,28 @@
+.search {
+    margin: 20px 0px 20px;
+}
+
+.custom-input {
+  width: 80%;
+}
+
+.header{
+  color: aquamarine;
+  text-align: center;
+}
+
+img {
+  height: 40px;
+  width: 60px;
+  margin-left: 20px;
+}
+
+.card-contain {
+  width: 90%;
+  height: 85%;
+  margin: 15px;
+}
+
+.pull-right {
+  float: right;
+}
