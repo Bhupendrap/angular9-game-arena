@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
+## projet envoirnment setup to run:
+
+Do `npm install` it will install all the dependencies.
+
+Manually to `ng add @angular/material` and `npm i ng2-search-filter --save`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
